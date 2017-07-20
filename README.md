@@ -1,2 +1,2 @@
 # HelloWorld
-new directory for hello world
+This is the sample hello world example to understand how the github works.
